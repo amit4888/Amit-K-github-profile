@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Data Science from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="amit-kumar" /> </p>
 
@@ -7,7 +7,7 @@
 
 <img align="right" alt = "coding" width = "400" src= "https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 🌱 I’m currently learning **Machine Learning, AI & Deep Learning**
 
 - 📫 How to reach me **ak2754844@gmail.com**
 
