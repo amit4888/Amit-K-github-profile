@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-kumar&show_icons=true&locale=en&layout=compact" alt="amit-kumar" /></p>
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=amit-kumar&show_icons=true&locale=en" alt="amit-kumar" /></p>
+<p>&nbsp;<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=amit-kumar&show_icons=true&locale=en" alt="amit-kumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-kumar&" alt="amit-kumar" /></p>
