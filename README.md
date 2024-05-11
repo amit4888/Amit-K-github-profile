@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate Data Science from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <img align="right" alt = "coding" width = "400" src= "https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="amit-kumar" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, AI & Deep Learning**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-kumar" alt="amit-kumar" /></a> </p>
+
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
 - 📫 How to reach me **ak2754844@gmail.com**
 
@@ -22,10 +24,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Amit-kumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Amit-kumar" /></a></p><br><br>
-<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-kumar&show_icons=true&locale=en&layout=compact" alt="amit-kumar" /></p>
 
-<p>&nbsp;<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=amit-kumar&show_icons=true&locale=en" alt="amit-kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-kumar&show_icons=true&locale=en" alt="amit-kumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-kumar&" alt="amit-kumar" /></p>
