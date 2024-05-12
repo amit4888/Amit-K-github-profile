@@ -1,20 +1,10 @@
-<div align="center">
-  <img height="400" width= "1200" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"  />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amit4888.amit4888&"  />
-</div>
-
 
 <h1 align="center">Hi! I am Amit Kumar👋</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+
+<div align="center">
+  <img height="450" width= "1200" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"  />
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-kumar" alt="amit-kumar" /></a> </p>
 
@@ -39,6 +29,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Amit-kumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Amit-kumar" /></a></p><br><br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amit4888.amit4888&"  />
+</div>
 
 <h1 align="left"></h1>
 <p align="left"></p>
