@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="380" width= "1200" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"  />
+  <img height="350" width= "1200" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"  />
 </div>
 
 <div align="center">
@@ -40,8 +40,24 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Amit-kumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Amit-kumar" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-kumar&show_icons=true&locale=en&layout=compact" alt="amit-kumar" /></p>
+<h1 align="left"></h1>
+<p align="left"></p>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amit4888&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-kumar&show_icons=true&locale=en" alt="amit-kumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-kumar&" alt="amit-kumar" /></p>
+
+<h2 align="left"></h2>
+
+<p align="left"></p>
+
+<h2 align="left"></h2>
+
+<div align="left">
+</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit4888&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
