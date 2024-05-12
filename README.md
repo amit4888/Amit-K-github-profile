@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
+<h1 align="center">Hi ! I am Amit Kumar👋</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-
-<img align="right" alt = "coding" width = "400" src= "https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="amit-kumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-kumar" alt="amit-kumar" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
+- 🌱 I’m currently learning **Machine Learning,AI & Deep Learning**
+- 👀 I’m looking to collaborate on **Project**
+- 👨‍💻 All of my projects are available at [https://github.com/amit4888?tab=repositories](https://github.com/amit4888?tab=repositories)
 - 📫 How to reach me **ak2754844@gmail.com**
 
-- ⚡ Fun fact **I am funny😅**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ amit-kumar-358687299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ amit-kumar-358687299" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/edit/25003752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/edit/25003752" height="30" width="40" /></a>
 <a href="https://kaggle.com/ds amit kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ds amit kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/amit___k__123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit___k__123" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/amit4888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amit4888" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
