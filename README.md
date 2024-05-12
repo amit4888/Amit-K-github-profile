@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" width= "1200" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"  />
+  <img height="380" width= "1200" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"  />
 </div>
 
 <div align="center">
