@@ -2,6 +2,8 @@
 <h1 align="center">Hi! I am Amit Kumar👋</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+<img align="centre" alt = "coding" width = "1000" src = "https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
+
 <div align="center">
   <img height="450" width= "1200" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"  />
 </div>
